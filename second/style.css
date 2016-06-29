@@ -1,0 +1,41 @@
+.left-sidebar {
+	width: 33.3%;
+	height: 825px;
+	background-color: #6666ff;
+	float: left;
+	display: inline-block;
+}
+
+.center-bar {
+	background-color: #BCED91;
+	width: 33.3%;
+	height: 825px;
+	float: left;
+	display: inline-block;
+}
+
+.right-sidebar {
+	width: 33.3%;
+	height: 825px;
+	background-color: #00FFCC;
+	float: left;
+	display: inline-block;
+}
+
+.image {
+	position: absolute;
+	bottom: -20px;
+	right: 0px;
+	padding: 62px;
+	height: 20vh;
+	width: 33.3%;
+	background-color: red;
+	text-align: center;
+	font-family: "Lucida Console", sans-serif;
+	font-size: 20px;
+	font-weight: lighter;
+	color: white;
+	z-index: 1;
+}
+
+
